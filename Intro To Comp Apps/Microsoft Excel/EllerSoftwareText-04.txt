@@ -1,0 +1,28 @@
+Client Name	Address	Phone Number	City	Zip	Product/Service	Date	Contract
+Heather Guyan	124 East Street	218-555-2313	Bemidji	56601	Training	10/7/2019	1500
+Craig Brand	554 2nd Street	320-555-4433	Saint Cloud	56301	Technical Support	10/1/2019	1050
+Wade Whitworth	1822 Highway 2	218-555-4211	Cass Lake	56633	Accounting Software	9/21/2019	5200
+Terri Olander	459 10th Avenue	218-555-8977	Brainerd	56401	POS: Point of Sale Software	10/15/2019	6525
+Charlie Lindberg	345 Lyndale Avenue	612-555-2156	Minneapolis	55401	ERP: Enterprise Resource Planning	9/1/2019	12000
+Hilary Marschke	245 West 3rd Avenue	320-555-5443	Saint Cloud	56301	Training	11/15/2019	750
+Shelly Vlcko	402 2nd Avenue SE	218-555-2456	Deer River	56636	Accounting Software	9/15/2019	4500
+Mike Gunderson	304 Irvine Avenue	218-555-9021	Bemidji	56601	Technical Support	10/28/2019	990
+Jeremie Midboe	Pilot Knob Road	651-555-2789	Eagan	55121	POS: Point of Sale Software	11/1/2019	7500
+Arthur Weston	554 3rd Street	320-555-4433	Saint Cloud	56301	Technical Support	10/1/2019	750
+Susan Charlotte	507 Lyndale Avenue	612-555-2177	Minneapolis	55401	ERP: Enterprise Resource Planning	11/1/2019	15000
+Thomas Larson	1044 Highway 2	218-555-1234	Cass Lake	56633	Training	10/15/2019	2500
+Arnold Robert	500 2nd Avenue SW	218-555-2556	Deer River	56636	Accounting Software	9/15/2019	3000
+Robert Gneiss	245 Western Avenue	612-555-2356	Minneapolis	55401	ERP: Enterprise Resource Planning	9/1/2019	10000
+Paula Valentine	127 Oak Street	218-555-2313	Bemidji	56601	Training	10/15/2019	950
+Michelle Cronin	800 Lake Avenue	218-555-8977	Brainerd	56401	POS: Point of Sale Software	12/15/2019	4500
+Amir Atef	300 South Avenue	320-555-5443	Saint Cloud	56301	Training	12/15/2019	800
+Richard Malinowski	309 Fifth Street	320-555-4433	Saint Cloud	56301	Technical Support	10/1/2019	750
+Glenn Ladewig	1600 Highway 2	218-555-4211	Cass Lake	56633	Accounting Software	9/1/2019	4500
+Christine Barton	902 Clinton Street	218-555-8977	Brainerd	56401	POS: Point of Sale Software	11/15/2019	5500
+Robert Lawlor	245 Western Avenue	612-555-2376	Minneapolis	55401	Technical	9/1/2019	1400
+Martin Green	127 Oak Street	218-555-2353	Bemidji	56601	Accounting Software	12/15/2019	950
+Jerri Salzman	800 Lake Avenue	218-555-8927	Brainerd	56401	POS: Point of Sale Software	9/15/2019	7000
+Juan Garcia	400 South Avenue	320-555-5448	Saint Cloud	56301	Training	11/15/2019	800
+Elizabeth Jones	450 Fifth Street	320-555-4422	Saint Cloud	56301	Technical Support	10/1/2019	750
+Karen Talon	1600 Highway 3	218-555-4287	Cass Lake	56633	Accounting Software	9/1/2019	4000
+Patricia Glunz	902 Gunter Street	218-555-8900	Brainerd	56401	POS: Point of Sale Software	12/15/2019	3200
